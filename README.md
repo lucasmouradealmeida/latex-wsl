@@ -1,6 +1,6 @@
 ## Biber
 
-biber <folder>/main
+biber folder/main
 
 ## Instalação
 
